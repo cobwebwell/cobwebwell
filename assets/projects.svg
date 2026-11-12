@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="428" viewBox="0 0 960 428">
+<style>
+text{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'DejaVu Sans Mono','Courier New',monospace;fill:#e8e8e8;font-size:16px}
+.d{fill:#5a5a5a} .m{fill:#969696} .b{font-weight:700} .s{font-size:13px}
+.r{opacity:0;animation:in .01s steps(1) forwards}
+@keyframes in{to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+.cur{animation:blink 1s steps(1) infinite}
+
+</style>
+<rect x=".5" y=".5" width="959" height="427" fill="#0a0a0a" stroke="#323232"/>
+<rect x="1" y="1" width="958" height="29" fill="#161616"/>
+<line x1="0" y1="30.5" x2="960" y2="30.5" stroke="#282828"/>
+<g fill="none" stroke="#969696"><circle cx="20" cy="15" r="6"/><circle cx="42" cy="15" r="6"/><circle cx="64" cy="15" r="6"/></g>
+<text x="480" y="20" text-anchor="middle" class="d s">cobwebwell@github: ~/work</text>
+<text x="28" y="64" class="m" xml:space="preserve">$ </text><text x="46" y="64" class="" xml:space="preserve">sqlite3 ~/work.db &quot;SELECT * FROM projects;&quot;</text>
+<g class="r" style="animation-delay:0.30s"><text x="28" y="84" class="" xml:space="preserve"></text><line x1="28" y1="92" x2="932" y2="92" stroke="#3c3c3c"/></g>
+<g class="r" style="animation-delay:0.30s"><text x="28" y="110" class="d b s" xml:space="preserve">NAME</text><text x="210" y="110" class="d b s" xml:space="preserve">DESCRIPTION</text><text x="580" y="110" class="d b s" xml:space="preserve">STACK</text><text x="800" y="110" class="d b s" xml:space="preserve">STATUS</text><line x1="28" y1="122" x2="932" y2="122" stroke="#3c3c3c"/></g>
+<g class="r" style="animation-delay:0.48s"><text x="28" y="150" class="b" xml:space="preserve">EV Charging</text><text x="210" y="150" class="m" xml:space="preserve">ev charging · mobile + backend</text><text x="580" y="150" class="d" xml:space="preserve">node · ws · expo</text><text x="800" y="150" class="" xml:space="preserve">[ACTIVE]</text></g>
+<g class="r" style="animation-delay:0.66s"><text x="28" y="180" class="b" xml:space="preserve">After Roleplay</text><text x="210" y="180" class="m" xml:space="preserve">project zomboid rp server (TR)</text><text x="580" y="180" class="d" xml:space="preserve">lua · node</text><text x="800" y="180" class="" xml:space="preserve">[LAUNCHING]</text></g>
+<g class="r" style="animation-delay:0.84s"><text x="28" y="210" class="b" xml:space="preserve">Karantina RP</text><text x="210" y="210" class="m" xml:space="preserve">1993 kentucky zombie rp server</text><text x="580" y="210" class="d" xml:space="preserve">lua · design</text><text x="800" y="210" class="" xml:space="preserve">[BUILDING]</text></g>
+<g class="r" style="animation-delay:1.02s"><text x="28" y="240" class="b" xml:space="preserve">Dreamland UCP</text><text x="210" y="240" class="m" xml:space="preserve">rp user panel + whitelist system</text><text x="580" y="240" class="d" xml:space="preserve">node · sqlite</text><text x="800" y="240" class="" xml:space="preserve">[BUILDING]</text></g>
+<g class="r" style="animation-delay:1.20s"><text x="28" y="270" class="b" xml:space="preserve">NET</text><text x="210" y="270" class="m" xml:space="preserve">cyberpunk social space, vr</text><text x="580" y="270" class="d" xml:space="preserve">realtime · 3d</text><text x="800" y="270" class="" xml:space="preserve">[R&amp;D]</text></g>
+<g class="r" style="animation-delay:1.38s"><text x="28" y="300" class="b" xml:space="preserve">COLD FEED</text><text x="210" y="300" class="m" xml:space="preserve">tactical shooter</text><text x="580" y="300" class="d" xml:space="preserve">lua</text><text x="800" y="300" class="" xml:space="preserve">[PLANNED]</text></g>
+<g class="r" style="animation-delay:1.56s"><text x="28" y="330" class="b" xml:space="preserve">pz-b42-mods</text><text x="210" y="330" class="m" xml:space="preserve">project zomboid build 42 mods</text><text x="580" y="330" class="d" xml:space="preserve">lua</text><text x="800" y="330" class="" xml:space="preserve">[ONGOING]</text></g>
+<g class="r" style="animation-delay:1.76s"><line x1="28" y1="344" x2="932" y2="344" stroke="#3c3c3c"/><text x="28" y="370" class="d s" xml:space="preserve">7 rows in set (0.00 sec)</text></g>
+<g class="r" style="animation-delay:1.96s"><text x="28" y="404" class="m" xml:space="preserve">$ </text><rect class="cur" x="46" y="390" width="10" height="18" fill="#e8e8e8"/></g>
+</svg>

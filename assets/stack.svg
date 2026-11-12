@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="266" viewBox="0 0 960 266">
+<style>
+text{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'DejaVu Sans Mono','Courier New',monospace;fill:#e8e8e8;font-size:16px}
+.d{fill:#5a5a5a} .m{fill:#969696} .b{font-weight:700} .s{font-size:13px}
+.r{opacity:0;animation:in .01s steps(1) forwards}
+@keyframes in{to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+.cur{animation:blink 1s steps(1) infinite}
+
+</style>
+<rect x=".5" y=".5" width="959" height="265" fill="#0a0a0a" stroke="#323232"/>
+<rect x="1" y="1" width="958" height="29" fill="#161616"/>
+<line x1="0" y1="30.5" x2="960" y2="30.5" stroke="#282828"/>
+<g fill="none" stroke="#969696"><circle cx="20" cy="15" r="6"/><circle cx="42" cy="15" r="6"/><circle cx="64" cy="15" r="6"/></g>
+<text x="480" y="20" text-anchor="middle" class="d s">cobwebwell@github: ~/stack</text>
+<text x="28" y="64" class="m" xml:space="preserve">$ </text><text x="46" y="64" class="" xml:space="preserve">tree -L 2 ~/stack</text>
+<g class="r" style="animation-delay:0.30s"><text x="28" y="96" class="b" xml:space="preserve">~/stack</text></g>
+<g class="r" style="animation-delay:0.45s"><text x="28" y="124" class="m" xml:space="preserve">├── runtime/</text><text x="44" y="152" class="" xml:space="preserve">├─ node.js</text><text x="44" y="176" class="" xml:space="preserve">├─ websocket</text><text x="44" y="200" class="" xml:space="preserve">└─ rest</text></g>
+<g class="r" style="animation-delay:0.60s"><text x="208" y="124" class="m" xml:space="preserve">├── data/</text><text x="224" y="152" class="" xml:space="preserve">├─ sqlite</text><text x="224" y="176" class="" xml:space="preserve">├─ sql</text><text x="224" y="200" class="" xml:space="preserve">└─ json</text></g>
+<g class="r" style="animation-delay:0.75s"><text x="388" y="124" class="m" xml:space="preserve">├── client/</text><text x="404" y="152" class="" xml:space="preserve">├─ expo</text><text x="404" y="176" class="" xml:space="preserve">├─ react-native</text><text x="404" y="200" class="" xml:space="preserve">└─ html/css/js</text></g>
+<g class="r" style="animation-delay:0.90s"><text x="568" y="124" class="m" xml:space="preserve">├── games/</text><text x="584" y="152" class="" xml:space="preserve">├─ lua</text><text x="584" y="176" class="" xml:space="preserve">├─ godot</text><text x="584" y="200" class="" xml:space="preserve">└─ source/gmod</text></g>
+<g class="r" style="animation-delay:1.05s"><text x="748" y="124" class="m" xml:space="preserve">└── ops/</text><text x="764" y="152" class="" xml:space="preserve">├─ security</text><text x="764" y="176" class="" xml:space="preserve">├─ linux</text><text x="764" y="200" class="" xml:space="preserve">└─ git</text></g>
+<g class="r" style="animation-delay:1.25s"><text x="28" y="244" class="d s" xml:space="preserve">15 files, 5 directories</text></g>
+</svg>
